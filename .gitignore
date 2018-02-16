@@ -1,0 +1,10 @@
+website/vendor
+website/node_modules
+website/public/storage
+website/Homestead.yaml
+website/Homestead.json
+website/.env
+website/sftp-config.json
+website/resources/views/test
+website/public/upload/video
+interface

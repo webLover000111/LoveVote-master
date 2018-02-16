@@ -1,0 +1,50 @@
+@charset"utf-8";
+body{
+		width: 100%;
+		font-family: "Microsoft YaHei", "微软雅黑",Georgia, "Times New Roman", STXihei, "华文细黑", serif;
+	}
+	#loginDiv{
+		background: #fff; 
+		width: 328px;
+		height: 200px;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		margin:-100px 0 0 -164px;
+		padding: 0 0;
+		border: 2px solid #d30010;
+		border-radius: 8px 8px 0 0;
+	}
+	#formTop{
+		margin: 0 0 30px 0;
+		height: 30px;
+		width: 100%;
+		background: url('../img/formTop.jpg') repeat-x;
+	}
+	#form{
+		margin-left: 40px;
+
+	}
+	#form label{
+		font-size:1em;
+		line-height: 1.125em;
+	}
+	#form input{
+		height: 20px;
+		width: 180px;
+		margin-bottom: 20px;
+		font-size: 0.875em; 
+	}
+	#btn{
+		display: block;
+		margin-left: 30px !important;
+		margin-bottom: 30px !important;
+		font-size: 1.125em;
+		color: #fff;
+		height: 36px !important;
+		width: 200px;
+		margin:0 0;
+		border: none;
+		padding: 0 0 0 0;
+		background: #d30010;
+	}
